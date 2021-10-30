@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Fweather-forecast-concept-picture-id531889697%3Fb%3D1%26k%3D20%26m%3D531889697%26s%3D170667a%26w%3D0%26h%3DimZl8VcPhgj-6jTFFkYGbVTFOTyQ-u93Z9WsyhMdqps%3D&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fweather&tbnid=uE5X1qT1OH5yEM&vet=12ahUKEwjWqa_Us5vzAhWXBDQIHaUoDMwQMygCegUIARDVAQ..i&docid=S4hF4obo_vp3eM&w=509&h=339&itg=1&q=weather%20background%20images&ved=2ahUKEwjWqa_Us5vzAhWXBDQIHaUoDMwQMygCegUIARDVAQ');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.input{
+    text-align: center;
+    margin: 100px auto;
+}
+
+button{
+    padding: 15px 30px;
+    background: orange;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#input_text{
+width: 600px;
+height: 55px;
+padding: 5px 10px;
+border-radius: 20px;
+font-weight: bold;
+font-size: 20px;
+}
+
+.container{
+    width: 50px;
+    background-color:rgb(102, 101, 101);
+    height: 40vh;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+h1{
+    padding: 5px 0;
+    text-align: center;
+    color: saddlebrown;
+}
+
+p{
+    text-align: center;
+    margin: 40px 0;
+    font-size: 20px;
+}
